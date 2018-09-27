@@ -1,0 +1,11 @@
+Develop a simple RSS reader.
+
+The interface is a web page that accepts an RSS URL and lays it out on a web page in a simple but visually appealing manner. 
+
+* User signup and login needed. 
+
+* UI to enter RSS link and show RSS results in same page. 
+
+You can use the following feed for testing purposes
+
+http://feeds.bbci.co.uk/news/rss.xml
